@@ -8,5 +8,4 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/superadmin")
 public class AreaController {
 
-
 }
